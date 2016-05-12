@@ -1,0 +1,9 @@
+Change Namebar
+Change Healthbar
+Player Blue's name is still unreadable blue/purple
+Blue Chat unreadable
+Button Animation still too slow
+Fire doesnt kill (Done)
+no bgm??? (Done)
+Flipdoor doesn't work (Done)
+Jump animation only works when walking 

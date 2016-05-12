@@ -1,0 +1,7 @@
+1-60    Idle 2 (Stretch)
+61-120  Idle 3 (Head Wondering)
+121-144 Walk Cycle
+145-204 Idle 1 (None)
+205-330 Idle 4 (WTF MOVE)
+331-356 Jump (Edited)
+356-450 death anim
